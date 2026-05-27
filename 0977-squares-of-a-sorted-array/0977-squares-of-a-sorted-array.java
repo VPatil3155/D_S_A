@@ -1,10 +1,21 @@
+import java.lang.Math;
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        
-        for(int i=0 ;i<nums.length;i++){
-            nums[i]=nums[i]*nums[i];
-        }
-        Arrays.sort(nums);
-        return nums;
+        int i=0;
+        int j=nums.length-1;
+        int k=nums.length-1;
+        int[] n=new int[nums.length];
+        while(i<=j){
+           if(Math.abs(nums[i])>Math.abs(nums[j])){
+                n[k]=nums[i]*nums[i];
+                k--;
+                i++;
+           } else{
+            n[k]=nums[j]*nums[j];
+            k--;
+            j--;
+           }
+        }    
+        return n;
     }
 }
