@@ -7,6 +7,7 @@ class Solution {
                 if(numbers[i]+numbers[j]==target){
                     tsum[0]=i+1;
                     tsum[1]=j+1;
+                    break;
                 }
             if(numbers[i]+numbers[j]>target){
                 j--;
