@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VPatil3155/D_S_A/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/VPatil3155/D_S_A/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VPatil3155/D_S_A/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VPatil3155/D_S_A/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VPatil3155/D_S_A/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VPatil3155/D_S_A/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
 ## Database
 |  |
 | ------- |
