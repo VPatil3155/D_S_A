@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VPatil3155/D_S_A/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VPatil3155/D_S_A/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/VPatil3155/D_S_A/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/VPatil3155/D_S_A/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VPatil3155/D_S_A/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VPatil3155/D_S_A/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/VPatil3155/D_S_A/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VPatil3155/D_S_A/tree/master/1480-running-sum-of-1d-array) |
 ## Database
 |  |
