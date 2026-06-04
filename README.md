@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VPatil3155/D_S_A/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VPatil3155/D_S_A/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VPatil3155/D_S_A/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/VPatil3155/D_S_A/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VPatil3155/D_S_A/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/VPatil3155/D_S_A/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/VPatil3155/D_S_A/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VPatil3155/D_S_A/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/VPatil3155/D_S_A/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VPatil3155/D_S_A/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/VPatil3155/D_S_A/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VPatil3155/D_S_A/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/VPatil3155/D_S_A/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/VPatil3155/D_S_A/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VPatil3155/D_S_A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/VPatil3155/D_S_A/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VPatil3155/D_S_A/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/VPatil3155/D_S_A/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/VPatil3155/D_S_A/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VPatil3155/D_S_A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/VPatil3155/D_S_A/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
