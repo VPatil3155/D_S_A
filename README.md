@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/VPatil3155/D_S_A/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VPatil3155/D_S_A/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/VPatil3155/D_S_A/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VPatil3155/D_S_A/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VPatil3155/D_S_A/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VPatil3155/D_S_A/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/VPatil3155/D_S_A/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/VPatil3155/D_S_A/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/VPatil3155/D_S_A/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VPatil3155/D_S_A/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VPatil3155/D_S_A/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VPatil3155/D_S_A/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/VPatil3155/D_S_A/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/VPatil3155/D_S_A/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/VPatil3155/D_S_A/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VPatil3155/D_S_A/tree/master/0438-find-all-anagrams-in-a-string) |
