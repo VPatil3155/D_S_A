@@ -1,6 +1,5 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-        int index=-1;
         int [] a=new int [nums.length];
         int [] b=new int [nums.length];
         int left=0;
@@ -20,6 +19,6 @@ class Solution {
                 return i;
             }
         }
-        return index;
+        return -1;
     }
 }
