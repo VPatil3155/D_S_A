@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VPatil3155/D_S_A/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/VPatil3155/D_S_A/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/VPatil3155/D_S_A/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/VPatil3155/D_S_A/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/VPatil3155/D_S_A/tree/master/0205-isomorphic-strings) |
@@ -202,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/VPatil3155/D_S_A/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
