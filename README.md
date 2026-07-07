@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/VPatil3155/D_S_A/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/VPatil3155/D_S_A/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/VPatil3155/D_S_A/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/VPatil3155/D_S_A/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VPatil3155/D_S_A/tree/master/0930-binary-subarrays-with-sum) |
@@ -204,4 +205,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VPatil3155/D_S_A/tree/master/0071-simplify-path) |
+| [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
