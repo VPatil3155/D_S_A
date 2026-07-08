@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/VPatil3155/D_S_A/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VPatil3155/D_S_A/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/VPatil3155/D_S_A/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/VPatil3155/D_S_A/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/VPatil3155/D_S_A/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VPatil3155/D_S_A/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -209,10 +210,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VPatil3155/D_S_A/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
