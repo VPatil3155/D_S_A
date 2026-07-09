@@ -12,10 +12,12 @@ class Solution {
                 stack.push(s.charAt(i));
             }
         }
-        String ans="";
-        for(char part:stack){
-            ans+=part;
+        StringBuilder ans = new StringBuilder();
+
+      for(char ch : stack){
+       ans.append(ch);
         }
-        return ans;
+
+    return ans.toString();
     }
 }
