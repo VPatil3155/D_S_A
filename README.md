@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VPatil3155/D_S_A/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/VPatil3155/D_S_A/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/VPatil3155/D_S_A/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VPatil3155/D_S_A/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/VPatil3155/D_S_A/tree/master/0977-squares-of-a-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VPatil3155/D_S_A/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
