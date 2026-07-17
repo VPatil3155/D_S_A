@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VPatil3155/D_S_A/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VPatil3155/D_S_A/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/VPatil3155/D_S_A/tree/master/0349-intersection-of-two-arrays) |
+| [0503-next-greater-element-ii](https://github.com/VPatil3155/D_S_A/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VPatil3155/D_S_A/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VPatil3155/D_S_A/tree/master/0560-subarray-sum-equals-k) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/VPatil3155/D_S_A/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/VPatil3155/D_S_A/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
@@ -236,5 +238,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/VPatil3155/D_S_A/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
