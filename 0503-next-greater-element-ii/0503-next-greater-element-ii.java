@@ -8,10 +8,12 @@ class Solution {
             while( !stack.isEmpty() &&nums[stack.peek()]<=nums[idx]){
                 stack.pop();
             }
-            if(stack.isEmpty()){
-                ans[idx]=-1;
+            if (i < nums.length) {
+              if(stack.isEmpty()){
+                ans[idx] = -1;
             }else{
-               ans[idx]= nums[stack.peek()];
+                ans[idx] = nums[stack.peek()];
+            }
             }
 
             stack.push(idx);
