@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VPatil3155/D_S_A/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VPatil3155/D_S_A/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0523-continuous-subarray-sum) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VPatil3155/D_S_A/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3895-count-digit-appearances](https://github.com/VPatil3155/D_S_A/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
