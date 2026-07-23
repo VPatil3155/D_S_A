@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VPatil3155/D_S_A/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/VPatil3155/D_S_A/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/VPatil3155/D_S_A/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VPatil3155/D_S_A/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VPatil3155/D_S_A/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/VPatil3155/D_S_A/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/VPatil3155/D_S_A/tree/master/0901-online-stock-span) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VPatil3155/D_S_A/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
