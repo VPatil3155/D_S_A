@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VPatil3155/D_S_A/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/VPatil3155/D_S_A/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/VPatil3155/D_S_A/tree/master/1991-find-the-middle-index-in-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3895-count-digit-appearances](https://github.com/VPatil3155/D_S_A/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
@@ -186,11 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VPatil3155/D_S_A/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3895-count-digit-appearances](https://github.com/VPatil3155/D_S_A/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VPatil3155/D_S_A/tree/master/0268-missing-number) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/VPatil3155/D_S_A/tree/master/0867-transpose-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
