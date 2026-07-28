@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/VPatil3155/D_S_A/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/VPatil3155/D_S_A/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/VPatil3155/D_S_A/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VPatil3155/D_S_A/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/VPatil3155/D_S_A/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VPatil3155/D_S_A/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VPatil3155/D_S_A/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/VPatil3155/D_S_A/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
