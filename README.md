@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VPatil3155/D_S_A/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/VPatil3155/D_S_A/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/VPatil3155/D_S_A/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VPatil3155/D_S_A/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/VPatil3155/D_S_A/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VPatil3155/D_S_A/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VPatil3155/D_S_A/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/VPatil3155/D_S_A/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VPatil3155/D_S_A/tree/master/0409-longest-palindrome) |
 ## Binary Search
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/VPatil3155/D_S_A/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/VPatil3155/D_S_A/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/VPatil3155/D_S_A/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VPatil3155/D_S_A/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/VPatil3155/D_S_A/tree/master/0682-baseball-game) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/VPatil3155/D_S_A/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/VPatil3155/D_S_A/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VPatil3155/D_S_A/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
