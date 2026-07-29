@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/VPatil3155/D_S_A/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/VPatil3155/D_S_A/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/VPatil3155/D_S_A/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/VPatil3155/D_S_A/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
