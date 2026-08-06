@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VPatil3155/D_S_A/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VPatil3155/D_S_A/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VPatil3155/D_S_A/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3895-count-digit-appearances](https://github.com/VPatil3155/D_S_A/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
@@ -309,5 +310,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VPatil3155/D_S_A/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
