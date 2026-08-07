@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/VPatil3155/D_S_A/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VPatil3155/D_S_A/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/VPatil3155/D_S_A/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/VPatil3155/D_S_A/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VPatil3155/D_S_A/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VPatil3155/D_S_A/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
