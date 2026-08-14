@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/VPatil3155/D_S_A/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/VPatil3155/D_S_A/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/VPatil3155/D_S_A/tree/master/0184-department-highest-salary) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/VPatil3155/D_S_A/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
