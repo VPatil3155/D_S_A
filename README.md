@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/VPatil3155/D_S_A/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/VPatil3155/D_S_A/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/VPatil3155/D_S_A/tree/master/0184-department-highest-salary) |
+| [1757-recyclable-and-low-fat-products](https://github.com/VPatil3155/D_S_A/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/VPatil3155/D_S_A/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
