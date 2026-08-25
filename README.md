@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VPatil3155/D_S_A/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/VPatil3155/D_S_A/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/1021-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
