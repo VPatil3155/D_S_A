@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/VPatil3155/D_S_A/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/VPatil3155/D_S_A/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/VPatil3155/D_S_A/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/VPatil3155/D_S_A/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/VPatil3155/D_S_A/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/VPatil3155/D_S_A/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VPatil3155/D_S_A/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/VPatil3155/D_S_A/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/VPatil3155/D_S_A/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/VPatil3155/D_S_A/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VPatil3155/D_S_A/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/VPatil3155/D_S_A/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VPatil3155/D_S_A/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
