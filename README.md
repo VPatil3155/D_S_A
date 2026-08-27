@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/VPatil3155/D_S_A/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/VPatil3155/D_S_A/tree/master/0904-fruit-into-baskets) |
+| [0907-sum-of-subarray-minimums](https://github.com/VPatil3155/D_S_A/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/VPatil3155/D_S_A/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/VPatil3155/D_S_A/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/VPatil3155/D_S_A/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VPatil3155/D_S_A/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VPatil3155/D_S_A/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/VPatil3155/D_S_A/tree/master/0392-is-subsequence) |
+| [0907-sum-of-subarray-minimums](https://github.com/VPatil3155/D_S_A/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/VPatil3155/D_S_A/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/VPatil3155/D_S_A/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/VPatil3155/D_S_A/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/VPatil3155/D_S_A/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VPatil3155/D_S_A/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VPatil3155/D_S_A/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/VPatil3155/D_S_A/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/VPatil3155/D_S_A/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/VPatil3155/D_S_A/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VPatil3155/D_S_A/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VPatil3155/D_S_A/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
