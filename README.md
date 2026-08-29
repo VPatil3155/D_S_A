@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/VPatil3155/D_S_A/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VPatil3155/D_S_A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VPatil3155/D_S_A/tree/master/0268-missing-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VPatil3155/D_S_A/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/VPatil3155/D_S_A/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/VPatil3155/D_S_A/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/VPatil3155/D_S_A/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/VPatil3155/D_S_A/tree/master/0258-add-digits) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0002-add-two-numbers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/VPatil3155/D_S_A/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
