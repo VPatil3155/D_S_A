@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VPatil3155/D_S_A/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/VPatil3155/D_S_A/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VPatil3155/D_S_A/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/VPatil3155/D_S_A/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VPatil3155/D_S_A/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/VPatil3155/D_S_A/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
