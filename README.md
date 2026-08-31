@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VPatil3155/D_S_A/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VPatil3155/D_S_A/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/VPatil3155/D_S_A/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/VPatil3155/D_S_A/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VPatil3155/D_S_A/tree/master/0219-contains-duplicate-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VPatil3155/D_S_A/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VPatil3155/D_S_A/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/VPatil3155/D_S_A/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/VPatil3155/D_S_A/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VPatil3155/D_S_A/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VPatil3155/D_S_A/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VPatil3155/D_S_A/tree/master/0326-power-of-three) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VPatil3155/D_S_A/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VPatil3155/D_S_A/tree/master/0258-add-digits) |
 ## Matrix
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VPatil3155/D_S_A/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VPatil3155/D_S_A/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bracket Sequences
@@ -358,4 +362,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VPatil3155/D_S_A/tree/master/0069-sqrtx) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VPatil3155/D_S_A/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VPatil3155/D_S_A/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VPatil3155/D_S_A/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
