@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/VPatil3155/D_S_A/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VPatil3155/D_S_A/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/VPatil3155/D_S_A/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/VPatil3155/D_S_A/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/VPatil3155/D_S_A/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/VPatil3155/D_S_A/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/VPatil3155/D_S_A/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/VPatil3155/D_S_A/tree/master/0338-counting-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
 |  |
