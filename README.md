@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/VPatil3155/D_S_A/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/VPatil3155/D_S_A/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/VPatil3155/D_S_A/tree/master/0394-decode-string) |
 ## Monotonic Stack
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VPatil3155/D_S_A/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/VPatil3155/D_S_A/tree/master/0206-reverse-linked-list) |
 ## Newton's Method
 |  |
 | ------- |
