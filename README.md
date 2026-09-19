@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/VPatil3155/D_S_A/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VPatil3155/D_S_A/tree/master/0930-binary-subarrays-with-sum) |
 | [3731-find-missing-elements](https://github.com/VPatil3155/D_S_A/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/VPatil3155/D_S_A/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VPatil3155/D_S_A/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/VPatil3155/D_S_A/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/VPatil3155/D_S_A/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
