@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VPatil3155/D_S_A/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2469-convert-the-temperature](https://github.com/VPatil3155/D_S_A/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VPatil3155/D_S_A/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VPatil3155/D_S_A/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VPatil3155/D_S_A/tree/master/2894-divisible-and-non-divisible-sums-difference) |
