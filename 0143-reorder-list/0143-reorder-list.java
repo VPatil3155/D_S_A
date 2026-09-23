@@ -1,11 +1,5 @@
 public class Solution {
     public void reorderList(ListNode head) {
-        
-        if (head == null || head.next == null) {
-            return;
-        }
-        
-       
         ListNode slow = head;
         ListNode fast = head;
         
