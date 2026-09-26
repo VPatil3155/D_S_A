@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/VPatil3155/D_S_A/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VPatil3155/D_S_A/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/VPatil3155/D_S_A/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/VPatil3155/D_S_A/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/VPatil3155/D_S_A/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VPatil3155/D_S_A/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/VPatil3155/D_S_A/tree/master/1732-find-the-highest-altitude) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/VPatil3155/D_S_A/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/VPatil3155/D_S_A/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VPatil3155/D_S_A/tree/master/0930-binary-subarrays-with-sum) |
+| [1512-number-of-good-pairs](https://github.com/VPatil3155/D_S_A/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/VPatil3155/D_S_A/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/VPatil3155/D_S_A/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VPatil3155/D_S_A/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/VPatil3155/D_S_A/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VPatil3155/D_S_A/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/VPatil3155/D_S_A/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VPatil3155/D_S_A/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VPatil3155/D_S_A/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/VPatil3155/D_S_A/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/VPatil3155/D_S_A/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VPatil3155/D_S_A/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VPatil3155/D_S_A/tree/master/2769-find-the-maximum-achievable-number) |
