@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VPatil3155/D_S_A/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VPatil3155/D_S_A/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/VPatil3155/D_S_A/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/VPatil3155/D_S_A/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/VPatil3155/D_S_A/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/VPatil3155/D_S_A/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/VPatil3155/D_S_A/tree/master/2469-convert-the-temperature) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VPatil3155/D_S_A/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/VPatil3155/D_S_A/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/VPatil3155/D_S_A/tree/master/0946-validate-stack-sequences) |
+| [1688-count-of-matches-in-tournament](https://github.com/VPatil3155/D_S_A/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VPatil3155/D_S_A/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/VPatil3155/D_S_A/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VPatil3155/D_S_A/tree/master/3069-distribute-elements-into-two-arrays-i) |
