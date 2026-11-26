@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VPatil3155/D_S_A/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/VPatil3155/D_S_A/tree/master/1991-find-the-middle-index-in-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VPatil3155/D_S_A/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VPatil3155/D_S_A/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VPatil3155/D_S_A/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VPatil3155/D_S_A/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VPatil3155/D_S_A/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/VPatil3155/D_S_A/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VPatil3155/D_S_A/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/VPatil3155/D_S_A/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VPatil3155/D_S_A/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/VPatil3155/D_S_A/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VPatil3155/D_S_A/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VPatil3155/D_S_A/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VPatil3155/D_S_A/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/VPatil3155/D_S_A/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VPatil3155/D_S_A/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VPatil3155/D_S_A/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -466,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VPatil3155/D_S_A/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/VPatil3155/D_S_A/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
